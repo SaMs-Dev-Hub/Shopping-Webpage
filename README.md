@@ -1,1 +1,2 @@
-# Shopping-Webpage
+# JS-SHOPLANE-Project
+ShopLane Project
